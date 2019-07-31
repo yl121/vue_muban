@@ -95,9 +95,7 @@ export default {
 
   },
   mounted () {
-    // $('#app').css({
-    //   'background': 'red'
-    // })
+
   }
 }
 </script>
